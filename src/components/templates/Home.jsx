@@ -6,7 +6,7 @@ import SocialMedia from '../organisms/SocialMedia'
 
 const Home = () => {
   return (
-    <div className='h-auto sm:h-screen w-[100%] darkbg' id='home'>
+    <div className='h-screen w-[100%] darkbg' id='home'>
         <Navbar/>
         <BgParticles id="particles"/>
         <TextCarousel/>

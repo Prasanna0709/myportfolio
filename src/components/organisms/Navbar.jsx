@@ -43,13 +43,13 @@ const Navbar = () => {
     //     </button>
     //   </div>
     // </div>
-    <div className="relative mt-2 z-[60] px-3 py-2 md:px-5 md:py-3">
-        <div className="flex w-full items-center justify-between px-10 bg-gray-900 h-[40px] sm:h-[50px] rounded-[600px]">
-            <div className="flex justify-center items-center h-[30px] w-[30px] sm:w-[40px] sm:h-[40px]  md:w-[50px] md:h-[50px]">
+    <div className="relative mt-6 z-[60] px-3 py-2 md:px-5 md:py-3">
+        <div className="flex w-full items-center justify-between px-10 bg-gray-900 h-[50px] sm:h-[60px] rounded-[600px]">
+            <div className="flex justify-center items-center h-[35px] w-[35px] sm:w-[40px] sm:h-[40px]  md:w-[50px] md:h-[50px]">
             <img src="./Prasanna_Logo.svg" alt="logo" />
         </div>
         <div>
-            <Ellipsis className=" h-[30px] w-[30px] sm:w-[40px] sm:h-[40px] text-purple-700"/>
+            <Ellipsis className=" h-[35px] w-[35px] sm:w-[40px] sm:h-[40px] text-purple-700"/>
         </div>
         </div>
     </div>

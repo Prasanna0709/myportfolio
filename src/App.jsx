@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div className='bg-red-200 text-blue-500'>
       <Home/>
-      <Skills/>
+      {/* <Skills/> */}
       {/* <AboutMe/>
       <Projects/>
       <ContactUs/> */}
