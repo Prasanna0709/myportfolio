@@ -5,7 +5,7 @@ import SocialMedia from "./SocialMedia";
 
 const TextCarousel = () => {
   return (
-    <div className="colorWh pb-[100px] sm:pb-[40px] z-50 relative h-[82vh] flex flex-col justify-center items-center">
+    <div className="colorWh pb-[100px] sm:pb-[40px] bg-green-200 z-50 relative h-[70vh] sm:h-[82vh] flex flex-col justify-center items-center">
       <div className="mb-6">
         <p className="text-[24px] md:text-[34px] font-semibold">Code. Deploy. Repeat. 🔁</p>
       </div>
